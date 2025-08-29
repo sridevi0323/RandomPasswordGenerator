@@ -1,6 +1,7 @@
 🔐 Random Password Generator
 This project is a Random Password Generator built using HTML, CSS, and JavaScript.
-✨ Features:
+
+**✨ Features:**
 1. Generates strong random passwords with:
 * Uppercase
 * Lowercase
