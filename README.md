@@ -10,6 +10,7 @@ This project is a Random Password Generator built using HTML, CSS, and JavaScrip
 3. Clean and modern UI design with custom styling.
 4. Responsive layout that works on different screen sizes.
 ⚡ How it works:
-Click the "Generate Password" button.
-A strong password will be generated instantly.
-Click the copy icon to copy the password and use it anywhere.
+
+-> Click the "Generate Password" button.
+-> A strong password will be generated instantly.
+-> Click the copy icon to copy the password and use it anywhere.
